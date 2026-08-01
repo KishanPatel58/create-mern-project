@@ -1,4 +1,4 @@
-# 🚀 create-kishan-backend
+# 🚀 create-mern-project
 
 A CLI tool to quickly generate a MERN project structure with a pre-configured **Server** and **Client**.
 
