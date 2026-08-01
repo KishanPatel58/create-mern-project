@@ -32,7 +32,7 @@ npm install -g create-mern-project
 Then run
 
 ```bash
-create-kishan-backend
+create-mern-project
 ```
 
 ---
