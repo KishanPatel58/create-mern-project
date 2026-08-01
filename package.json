@@ -1,0 +1,30 @@
+{
+  "name": "create-mern-project",
+  "version": "1.0.0",
+  "description": "CLI to generate Express + MongoDB backend and frontend using vite with authentication.",
+  "bin": {
+    "create-mern-project": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "express",
+    "backend",
+    "mongodb",
+    "jwt",
+    "google-auth",
+    "mern-project",
+    "mern-stack",
+    "mern"
+  ],
+  "author": "Kishan Patel",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^12.11.1"
+  }
+}
